@@ -10,7 +10,7 @@ goodbye
 
 
 <div class="card w-96 bg-base-100 shadow-xl">
-    <figure><img src="https://static.dezeen.com/uploads/2021/04/lil-nas-x-mschf-nike-satan-shoes-blood-pentagram-bible-verse-design-fashion-footwear_dezeen_2364_sq4-scaled-1.jpg" alt="Shoes" /></figure>
+    <figure><img src="https://cdn.vox-cdn.com/thumbor/LXInRMZr79bUxYyQxOGM0_EW9Og=/0x0:2000x1284/1200x800/filters:focal(840x482:1160x802)/cdn.vox-cdn.com/uploads/chorus_image/image/56473521/pizza_shoe12.0.jpg" alt="Shoes" /></figure>
     <div class="card-body">
       <h2 class="card-title">
         Shoes!
