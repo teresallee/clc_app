@@ -1,3 +1,4 @@
+
 <!-- This is the Javascript that adds functionality to the HTML -->
 <script lang="ts">
 	// This is where we hold all of the values that we change and manipulate.
@@ -103,3 +104,9 @@
 		justify-content: center;
 	}
 </style>
+
+<div style="margin-left:50px" >
+	<!-- svelte-ignore invalid-html-attribute -->
+	<textarea className="textarea" placeholder="Quick Note"></textarea>
+</div>
+
